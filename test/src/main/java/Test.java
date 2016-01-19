@@ -10,7 +10,7 @@ public class Test {
  * welcome
  */
 		
-		System.out.println("test...");
+		System.out.println("test2...");
 	}
 
 }
