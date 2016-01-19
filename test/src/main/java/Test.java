@@ -9,6 +9,8 @@ public class Test {
 /**
  * welcome
  */
+		
+		System.out.println("test...");
 	}
 
 }
